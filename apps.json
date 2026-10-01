@@ -18,6 +18,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.8",
+          "date": "2026-10-01",
+          "localizedDescription": "CI build 8",
+          "downloadURL": "https://github.com/NANYUA/xnuo-dist/releases/download/build-8/xnuo.ipa",
+          "size": 302861,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.7",
           "date": "2026-10-01",
           "localizedDescription": "CI build 7",
@@ -62,10 +70,10 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.7",
+      "version": "1.0.8",
       "versionDate": "2026-10-01",
-      "downloadURL": "https://github.com/NANYUA/xnuo-dist/releases/download/build-7/xnuo.ipa",
-      "size": 290106
+      "downloadURL": "https://github.com/NANYUA/xnuo-dist/releases/download/build-8/xnuo.ipa",
+      "size": 302861
     }
   ],
   "news": []
