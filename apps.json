@@ -20,9 +20,9 @@
         {
           "version": "1.19.3",
           "date": "2026-10-03",
-          "localizedDescription": "CI build 53",
+          "localizedDescription": "CI build 54",
           "downloadURL": "https://github.com/NANYUA/xnuo-dist/releases/download/v1.19.3/xnuo.ipa",
-          "size": 559111,
+          "size": 571947,
           "minOSVersion": "16.0"
         }
       ],
@@ -33,7 +33,7 @@
       "version": "1.19.3",
       "versionDate": "2026-10-03",
       "downloadURL": "https://github.com/NANYUA/xnuo-dist/releases/download/v1.19.3/xnuo.ipa",
-      "size": 559111
+      "size": 571947
     }
   ],
   "news": []
